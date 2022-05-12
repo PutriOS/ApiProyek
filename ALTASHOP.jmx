@@ -386,7 +386,7 @@
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
   &quot;fullname&quot;: &quot;Octavia&quot;,&#xd;
-  &quot;email&quot;: &quot;Octaviaa0000@gmail&quot;,&#xd;
+  &quot;email&quot;: &quot;Octaviaa00000@gmail&quot;,&#xd;
   &quot;password&quot;: &quot;octa123&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
@@ -647,7 +647,7 @@
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
   &quot;fullname&quot;: &quot;Octavia&quot;,&#xd;
-  &quot;email&quot;: &quot;Sitompul0000&quot;,&#xd;
+  &quot;email&quot;: &quot;Sitompul00000&quot;,&#xd;
   &quot;password&quot;: &quot;octa123&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
